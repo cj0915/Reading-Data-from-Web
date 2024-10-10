@@ -1,0 +1,14 @@
+---
+title: "Reading Data from Web"
+author: "Chenyu Jin"
+date: "2024-10-10"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+library(rvest)
+library(httr)
+```
+
+
